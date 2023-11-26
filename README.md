@@ -1,27 +1,15 @@
-# HARU_Mobile_SERVER
+# 대타출동 
+<a href="https://play.google.com/store/apps/details?id=haru.myapplication"> Google Play Store 바로가기</a>
+![image](https://github.com/hoony00/HaruAlba-SERVER/assets/86902854/a6e0c228-47eb-4e2c-82d7-4bd48334c524.png)
 
-#### ( _Merge + Pull_ ) Request 기준 <p>
-- master 브랜치는 커밋 이력을 깔끔하게 관리하도록 노력 <p>
-- 되도록이면 모든 인원의 코드 리뷰가 끝난 후 _본인_이 병합 <p>
+![KakaoTalk_Image_2023-09-17-02-13-43](https://github.com/hoony00/HaruAlba-SERVER/assets/86902854/945a8357-0941-45c3-8fee-4d505764462c.gif)
 
-**********************************************
-#### _브랜치_ <p>
-- 기본 : master <p>
-- 기능 개발 : develop <p>
 
-**********************************************
-#### _커밋_ 메시지 규칙 <p>
-- 어떻게 보다는 무엇과 왜를 설명한다 <p>
 
-#### _커밋_ 메시지 구조 -> 유형(범위): 내용의 제목 <p>
-- 예시 <p>
-![image](https://user-images.githubusercontent.com/89853084/214541945-660afdce-8aa5-4bf6-b92f-aa40734a7f12.png)
+## 현재 비공개 코드는 빠져있습니다 (추 후 Env 작업 예정)
 
-#### _커밋_ 유형 지정 <p>
-- FEAT : 새로운 기능의 추가 <p>
-- FIX : 버그 수정 <p>
-- DOCS : 문서 수정 <p>
-- STYLE : 스타일 관련(코드 포맷팅, 코드 누락, 코드 자체의 변경이 없는 경우 <p>
-- REFACTOR : 코드 리팩토링 <p>
-- TEST : 테스트 코드, 리팩토링 테스트 코드 <p>
-- CHORE : 빌드 업무 수정, 패키지 매니저 수정 <p>
+
+
+
+
+
